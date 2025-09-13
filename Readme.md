@@ -61,17 +61,17 @@ print(f"Dataset Dimensions: {d_diabetes.shape}")
 print(f"Outcome Distribution:\n{d_diabetes['Outcome'].value_counts()}")
 ```
 
-![Correlation Heatmap](https://github.com/vyansidiyora2000/Diabetes_dataset_prediction/blob/main/Assests/correlation.png)
+![Correlation Heatmap](https://github.com/Kriti0301/Diabetes_dataset_prediction/blob/master/Assests/correlation.png)
 
 ### Count Plot
 This is the count plot for age, glucose levels, and other key features:
 
-![Count Plot](https://github.com/vyansidiyora2000/Diabetes_dataset_prediction/blob/main/Assests/Screenshot%202024-10-09%20141830.png)
+![Count Plot](https://github.com/Kriti0301/Diabetes_dataset_prediction/blob/master/Assests/Screenshot%202024-10-09%20141830.png)
 
 ## Dashboard
 The dashboard generated from the analysis:
 
-![Dashboard](https://github.com/vyansidiyora2000/Diabetes_dataset_prediction/blob/main/Assests/Screenshot%202024-10-09%20142509.png)
+![Dashboard](https://github.com/Kriti0301/Diabetes_dataset_prediction/blob/master/Assests/Screenshot%202024-10-09%20142509.png)
 ### 3. Feature Exploration
 
 Each feature is analyzed for its distribution, spread, and possible impact on diabetes prediction. This analysis may involve:
@@ -100,8 +100,3 @@ plt.show()
 Once the features have been explored and analyzed, the next step would involve applying machine learning models for predicting diabetes. The models could include:
 
 The Accuracy is: 74.68%
-
-## YouTube Explanation Link:
-
-
-For a detailed walkthrough of this project, including feature exploration, model implementation, and accuracy evaluation, you can watch the full YouTube video [here](https://www.youtube.com/watch?v=27svmiPkbeY&t=72s). The video provides an in-depth guide to each step of the analysis and predictive modeling.
